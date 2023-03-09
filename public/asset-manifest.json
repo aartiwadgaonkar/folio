@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7b765bd1.css",
+    "main.js": "/static/js/main.bb8c7414.js",
+    "static/js/787.43d88a3b.chunk.js": "/static/js/787.43d88a3b.chunk.js",
+    "static/media/aarti.pdf": "/static/media/aarti.e9503a8d496656b1e00b.pdf",
+    "index.html": "/index.html",
+    "main.7b765bd1.css.map": "/static/css/main.7b765bd1.css.map",
+    "main.bb8c7414.js.map": "/static/js/main.bb8c7414.js.map",
+    "787.43d88a3b.chunk.js.map": "/static/js/787.43d88a3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b765bd1.css",
+    "static/js/main.bb8c7414.js"
+  ]
+}
